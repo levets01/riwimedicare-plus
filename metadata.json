@@ -1,0 +1,7 @@
+{
+  "name": "RiwiMediCare Plus",
+  "description": "Plataforma de precisión en la cadena de suministro médico, trazabilidad hospitalaria y monitoreo de cadena de frío en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
